@@ -1,0 +1,5 @@
+{
+  "name": "Mido Image Studio V1",
+  "description": "An AI-powered suite of tools for generating, analyzing, translating, and managing image prompts. Features include image creation, prompt optimization, chat-based analysis, and a personal prompt library.",
+  "requestFramePermissions": []
+}
